@@ -1,12 +1,12 @@
 # <h1 align="center">Hi from Italy, Ciao! 👋 I'm Federico Barreca</h1>
-<h3 align="center">
+<h3 align="left">
   Graduated in B.Sc. in Computer Engineering at Sapienza University of Rome.
-  </br>  </br>
-
+</br>
+</br>
   M.Sc. in Computer Science student at Sapienza University of Rome.
-</h3>  
-<h3 align="center">
-Currently joining the "Neuronal Rhythms in Movement" unit for a Research Internship at Okinawa Institute of Science and Technology.
+</br>
+</br>
+  Currently joining the "Neuronal Rhythms in Movement" unit for a Research Internship at Okinawa Institute of Science and Technology.
 </h3>
 
 <p align="left">
