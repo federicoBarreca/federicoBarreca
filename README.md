@@ -234,7 +234,7 @@
     <img src="https://trufflesuite.com/assets/logo.png" alt="ganache" width="40" height="40"/>
   </a>
 
-<h3 align="left">Environment:</h3>
+<h3 align="left">Environments:</h3>
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
