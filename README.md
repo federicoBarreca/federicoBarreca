@@ -157,6 +157,14 @@
 </p>
 <h3 align="left">Tool & Softwares:</h3>
 <p align="left">
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio//visualstudio-original.svg"
+      alt="mysql"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/>
   </a>
