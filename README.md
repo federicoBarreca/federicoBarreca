@@ -125,6 +125,14 @@
       height="40"
     />
   </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"
+      alt="numpy"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"
@@ -174,7 +182,10 @@
 </a>
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/>
-  </a>
+</a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+</a>
   
 </p>
 <h3 align="left">Tool & Softwares:</h3>
@@ -183,6 +194,14 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio//visualstudio-original.svg"
       alt="visualstudio"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.microsoft.com/en/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+      alt="sqlserver"
       width="40"
       height="40"
     />
@@ -216,7 +235,16 @@
 <h3 align="left">Environment:</h3>
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" tooltip="linux" alt="linux" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40"/>
+  </a>
+  <a href="https://www.apple.com/mac/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="macOs" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
   </a>
 </p>
     
