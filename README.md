@@ -41,10 +41,18 @@
       height="40"
     />
   </a>
-   <a href="https://cplusplus.com" target="_blank" rel="noreferrer">
+   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="c++"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+      alt="csharp"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
+      alt="dotnetcore"
       width="40"
       height="40"
     />
@@ -150,17 +158,17 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="40" height="40"/>
   </a>
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+<a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/>
-  </a>
+</a>
   
 </p>
 <h3 align="left">Tool & Softwares:</h3>
 <p align="left">
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio//visualstudio-original.svg"
-      alt="mysql"
+      alt="visualstudio"
       width="40"
       height="40"
     />
