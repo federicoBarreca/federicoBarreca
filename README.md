@@ -172,6 +172,9 @@
 <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
 </a>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/>
+  </a>
   
 </p>
 <h3 align="left">Tool & Softwares:</h3>
@@ -183,9 +186,6 @@
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img
@@ -212,4 +212,11 @@
   <a href="https://www.trufflesuite.com/ganache" target="_blank" rel="noreferrer">
     <img src="https://trufflesuite.com/assets/logo.png" alt="ganache" width="40" height="40"/>
   </a>
+
+<h3 align="left">Environment:</h3>
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" tooltip="linux" alt="linux" width="40" height="40"/>
+  </a>
+</p>
     
