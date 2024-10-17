@@ -5,8 +5,6 @@
 </br>
   M.Sc. in Computer Science student at Sapienza University of Rome.
 </br>
-</br>
-  Currently joining the "Neuronal Rhythms in Movement" unit for a Research Internship at Okinawa Institute of Science and Technology.
 </h3>
 
 <p align="left">
