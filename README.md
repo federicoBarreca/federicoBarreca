@@ -223,6 +223,14 @@
       height="40"
     />
   </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png"
+      alt="blender"
+      width="40"
+      height="40"
+    />
+  </a>
 
   <!-- Aggiunta di AWS -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
