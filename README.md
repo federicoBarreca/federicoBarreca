@@ -14,7 +14,7 @@
   />
 </p>
 
-- 🔭 I'm experience in **Machine Learning, Cloud Computing, Blockchain and Full-Stack Development.** 
+- 🔭 I'm experienced in **Machine Learning, Cloud Computing, Blockchain and Full-Stack Development.** 
 
 - 📫 How to reach me
 **federico.barreca97@gmail.com**
