@@ -238,6 +238,9 @@
   <a href="https://www.trufflesuite.com/ganache" target="_blank" rel="noreferrer">
     <img src="https://trufflesuite.com/assets/logo.png" alt="ganache" width="40" height="40"/>
   </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="docker" width="40" height="40"/>
+  </a>
 
 <h3 align="left">Environments:</h3>
 <p align="left">
