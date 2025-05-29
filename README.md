@@ -25,6 +25,11 @@
 <a href="https://discord.gg/642845932282445837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="229516201196257282" height="30" width="40" /></a>
 </p>
 <h3 align="left">Development:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,ts,js,v,html,css,react,nextjs,tailwind,jquery,nodejs,npm,selenium,docker,cmake,git,github,gitlab,figma,vscode,bash,linux,latex,androidstudio,matlab,opencv,sklearn,tensorflow,pytorch,solidity,mongodb,mysql,spark" />
+  </a>
+</p>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
