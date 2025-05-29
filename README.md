@@ -16,8 +16,6 @@
 
 - 🔭 I'm experienced in **Machine Learning, Cloud Computing, Blockchain and Full-Stack Development.** 
 
-- 📫 How to reach me
-**federico.barreca97@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/federico-barreca-b82718145/" target="blank">
@@ -28,6 +26,9 @@
   </a>
   <a href="https://discord.gg/642845932282445837" target="blank">
     <img src="https://skillicons.dev/icons?i=discord" width="40"/>
+  </a>
+  <a href="mailto:federico.barreca97@gmail.com" target="blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
   </a>
 </p>
 <p align="left">
