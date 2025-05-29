@@ -206,6 +206,11 @@
 ---
 ## 🛠️ Tool & Softwares
 <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+</p>
+<p align="left">
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio//visualstudio-original.svg"
@@ -262,24 +267,7 @@
 ## Environments
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,macos,arduino" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40"/>
-  </a>
-  <a href="https://www.apple.com/mac/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="macOs" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,apple,arduino" />
   </a>
 </p>
     
