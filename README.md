@@ -36,7 +36,7 @@
 ## 💻 Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,ts,js,html,css,react,nextjs,jquery,nodejs,npm,cmake,git,github,gitlab,figma,vscode,bash,linux,latex,androidstudio,matlab,opencv,sklearn,tensorflow,pytorch,solidity,sql,spark,flask" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,ts,js,html,css,react,nextjs,jquery,nodejs,npm,cmake,git,github,gitlab,figma,vscode,bash,linux,latex,androidstudio,matlab,opencv,sklearn,tensorflow,pytorch,solidity,sql,pyspark,flask" />
   </a>
 </p>
 <p align="left">
