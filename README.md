@@ -16,7 +16,7 @@
 
 - 🔭 I'm experienced in **Machine Learning, Cloud Computing, Blockchain and Full-Stack Development.** 
 
-<h3 align="left">Connect with me:</h3>
+## 🌍 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/federico-barreca-b82718145/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
@@ -36,7 +36,7 @@
 <a href="https://instagram.com/fe_barret" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tony__lm" height="30" width="40" /></a>
 <a href="https://discord.gg/642845932282445837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="229516201196257282" height="30" width="40" /></a>
 </p>
-<h3 align="left">Development:</h3>
+## Development
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,ts,js,v,html,css,react,nextjs,tailwind,jquery,nodejs,npm,selenium,docker,cmake,git,github,gitlab,figma,vscode,bash,linux,latex,androidstudio,matlab,opencv,sklearn,tensorflow,pytorch,solidity,mongodb,mysql,spark" />
@@ -205,7 +205,7 @@
 </a>
   
 </p>
-<h3 align="left">Tool & Softwares:</h3>
+## 🛠️ Tool & Softwares
 <p align="left">
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
     <img
@@ -259,7 +259,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="docker" width="40" height="40"/>
   </a>
 
-<h3 align="left">Environments:</h3>
+## Environments
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
