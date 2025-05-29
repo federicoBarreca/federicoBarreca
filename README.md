@@ -36,7 +36,7 @@
 ## 💻 Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,dotnet,ts,js,html,css,react,nextjs,threejs,jquery,nodejs,php,bash,powershell,latex,androidstudio,matlab,opencv,sklearn,tensorflow,pytorch,solidity,sql,pyspark,flask,scala,fastapi" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,dotnet,ts,js,html,css,react,nextjs,threejs,jquery,bootstrap,nodejs,php,bash,powershell,latex,androidstudio,matlab,opencv,sklearn,tensorflow,pytorch,solidity,sql,pyspark,flask,scala,fastapi" />
   </a>
 </p>
 <p align="left">
@@ -207,7 +207,7 @@
 ## 🛠️ Tool & Softwares
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postgres,unity,blenderaws,gcp,docker,npm,git,github,gitlab,figma,ipfs,remix,cmake,postman" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postgres,unity,blender,aws,gcp,docker,npm,git,github,gitlab,figma,ipfs,remix,cmake,postman" />
   </a>
 </p>
   <a href="https://www.microsoft.com/en/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
