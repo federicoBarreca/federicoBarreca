@@ -36,7 +36,7 @@
 ## 💻 Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,dotnet,ts,js,html,css,react,nextjs,threejs,jquery,bootstrap,nodejs,php,bash,powershell,latex,androidstudio,matlab,opencv,sklearn,tensorflow,pytorch,solidity,sql,pyspark,flask,scala,fastapi" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,dotnet,ts,js,html,css,react,nextjs,threejs,jquery,bootstrap,nodejs,php,bash,powershell,latex,androidstudio,matlab,opencv,sklearn,tensorflow,pytorch,solidity,flask,scala,fastapi" />
   </a>
 </p>
   <a href="https://get.webgl.org" target="_blank" rel="noreferrer">
