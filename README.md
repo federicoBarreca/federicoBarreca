@@ -1,4 +1,4 @@
-# <h1 align="center">Hi from Italy, Ciao! 👋 I'm Federico Barreca</h1>
+# <h1 align="center">Hi from Italy, Ciao! 👋 I'm Federico</h1>
 <h3 align="left">
   M.Sc. in Computer Science at Sapienza University of Rome.
   <br>  
