@@ -1,6 +1,7 @@
 # <h1 align="center">Hi from Italy, Ciao! 👋 I'm Federico Barreca</h1>
 <h3 align="left">
   Graduated in B.Sc. in Computer Engineering at Sapienza University of Rome.
+  <br>
   M.Sc. in Computer Science at Sapienza University of Rome.
 </h3>
 
