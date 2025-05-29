@@ -261,6 +261,11 @@
 ---
 ## Environments
 <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,macos,arduino" />
+  </a>
+</p>
+<p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
