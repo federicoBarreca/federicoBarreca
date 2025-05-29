@@ -31,15 +31,10 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
   </a>
 </p>
-<p align="left">
-<a href="https://www.linkedin.com/in/federico-barreca-b82718145/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federicoBarreca" height="30" width="40"/></a>
-<a href="https://instagram.com/fe_barret" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tony__lm" height="30" width="40" /></a>
-<a href="https://discord.gg/642845932282445837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="229516201196257282" height="30" width="40" /></a>
-</p>
 
 ---
 ## Development
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,ts,js,v,html,css,react,nextjs,tailwind,jquery,nodejs,npm,selenium,docker,cmake,git,github,gitlab,figma,vscode,bash,linux,latex,androidstudio,matlab,opencv,sklearn,tensorflow,pytorch,solidity,mongodb,mysql,spark" />
   </a>
