@@ -36,7 +36,7 @@
 ## 💻 Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,ts,js,html,css,react,nextjs,jquery,nodejs,npm,cmake,git,github,gitlab,figma,vscode,bash,linux,latex,androidstudio,matlab,opencv,sklearn,tensorflow,pytorch,solidity,sql,pyspark,flask" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,dotnet,ts,js,html,css,react,nextjs,threejs,jquery,nodejs,php,bash,powershell,latex,androidstudio,matlab,opencv,sklearn,tensorflow,pytorch,solidity,sql,pyspark,flask,scala,fastapi" />
   </a>
 </p>
 <p align="left">
@@ -207,18 +207,9 @@
 ## 🛠️ Tool & Softwares
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postgres,unity,blenderaws,gcp,docker,npm,git,github,gitlab,figma,ipfs,remix,cmake,postman" />
   </a>
 </p>
-<p align="left">
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio//visualstudio-original.svg"
-      alt="visualstudio"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.microsoft.com/en/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
@@ -227,40 +218,9 @@
       height="40"
     />
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969"
-      alt="unity"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png"
-      alt="blender"
-      width="40"
-      height="40"
-    />
-  </a>
 
-  <!-- Aggiunta di AWS -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
-  </a>
   <a href="https://www.trufflesuite.com/ganache" target="_blank" rel="noreferrer">
     <img src="https://trufflesuite.com/assets/logo.png" alt="ganache" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="docker" width="40" height="40"/>
   </a>
 
 ---
